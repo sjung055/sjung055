@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sung Oh Jung!
-- 👀 Driven by a keen interest in <U>applying statistics across various fields</U>, I have gained extensive data science experience including survival data analysis, economics, quantum computing, and particularly, artificial intelligence.
-- 🌱 I’m currently learning **applied statistics** and **computer science** at **Yonsei University**, Seoul, Korea.
+- 👀 Driven by a keen interest in <ins>applying **statistics** across various fields</ins>, I have gained <ins>**extensive data science experience**</ins> including *survival data analysis, economics, quantum computing, and particularly, <ins>artificial intelligence</ins>*.
+- 🌱 I’m currently double majoring in **applied statistics** and **computer science** at **Yonsei University**, Seoul, Korea.
 - 📫 How to reach me: sjung055@yonsei.ac.kr
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact
